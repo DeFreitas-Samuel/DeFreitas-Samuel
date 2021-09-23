@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeFreitas-Samuel
 - 👀 I’m interested in Coding and music
-- 🌱 I’m currently learning C#, Javascript, Angular, MongoDB
+- 🌱 I’m currently learning C#, Javascript, Angular and MongoDB
 - 💞️ I’m looking to collaborate on a lot of different and interesting projects
 - 📫 How to reach me ...
 
